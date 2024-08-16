@@ -1,0 +1,15 @@
+{
+  "name": "debug-bin",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".build/cli.js",
+  "bin": {
+    "debug-bin": ".build/cli.js"
+  },
+  "files": [
+    ".build",
+    "package.json"
+  ],
+  "author": "",
+  "license": "ISC"
+}
